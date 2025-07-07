@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chickentractor.io/sitemap.xml
